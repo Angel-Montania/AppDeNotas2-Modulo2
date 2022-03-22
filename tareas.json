@@ -1,0 +1,18 @@
+[
+    {
+        "titulo": "secundario",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "ingles",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "desarrollo web",
+        "estado": "en progreso"
+    },
+    {
+        "titulo": "ing. en sistemas",
+        "estado": "pendiente"
+    }
+]
